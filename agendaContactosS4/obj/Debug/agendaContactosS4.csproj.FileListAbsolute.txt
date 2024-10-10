@@ -1,0 +1,59 @@
+C:\Users\chacon\source\repos\agendaContactosS4\agendaContactosS4\bin\Debug\agendaContactosS4.exe.config
+C:\Users\chacon\source\repos\agendaContactosS4\agendaContactosS4\bin\Debug\agendaContactosS4.exe
+C:\Users\chacon\source\repos\agendaContactosS4\agendaContactosS4\bin\Debug\agendaContactosS4.pdb
+C:\Users\chacon\source\repos\agendaContactosS4\agendaContactosS4\obj\Debug\agendaContactosS4.csproj.AssemblyReference.cache
+C:\Users\chacon\source\repos\agendaContactosS4\agendaContactosS4\obj\Debug\agendaContactosS4.Form1.resources
+C:\Users\chacon\source\repos\agendaContactosS4\agendaContactosS4\obj\Debug\agendaContactosS4.Properties.Resources.resources
+C:\Users\chacon\source\repos\agendaContactosS4\agendaContactosS4\obj\Debug\agendaContactosS4.csproj.GenerateResource.cache
+C:\Users\chacon\source\repos\agendaContactosS4\agendaContactosS4\obj\Debug\agendaContactosS4.csproj.CoreCompileInputs.cache
+C:\Users\chacon\source\repos\agendaContactosS4\agendaContactosS4\obj\Debug\agendaContactosS4.exe
+C:\Users\chacon\source\repos\agendaContactosS4\agendaContactosS4\obj\Debug\agendaContactosS4.pdb
+E:\Escritorio\agendaContactosS4\agendaContactosS4\bin\Debug\agendaContactosS4.exe.config
+E:\Escritorio\agendaContactosS4\agendaContactosS4\bin\Debug\agendaContactosS4.exe
+E:\Escritorio\agendaContactosS4\agendaContactosS4\bin\Debug\agendaContactosS4.pdb
+E:\Escritorio\agendaContactosS4\agendaContactosS4\obj\Debug\agendaContactosS4.csproj.AssemblyReference.cache
+E:\Escritorio\agendaContactosS4\agendaContactosS4\obj\Debug\agendaContactosS4.Form1.resources
+E:\Escritorio\agendaContactosS4\agendaContactosS4\obj\Debug\agendaContactosS4.Login.resources
+E:\Escritorio\agendaContactosS4\agendaContactosS4\obj\Debug\agendaContactosS4.Properties.Resources.resources
+E:\Escritorio\agendaContactosS4\agendaContactosS4\obj\Debug\agendaContactosS4.csproj.GenerateResource.cache
+E:\Escritorio\agendaContactosS4\agendaContactosS4\obj\Debug\agendaContactosS4.csproj.CoreCompileInputs.cache
+E:\Escritorio\agendaContactosS4\agendaContactosS4\obj\Debug\agendaContactosS4.exe
+E:\Escritorio\agendaContactosS4\agendaContactosS4\obj\Debug\agendaContactosS4.pdb
+E:\Escritorio\agendaContactosS4\agendaContactosS4\obj\Debug\agendaContactosS4.General.resources
+E:\Escritorio\agendaContactosS4Modificada\agendaContactosS4\bin\Debug\agendaContactosS4.exe.config
+E:\Escritorio\agendaContactosS4Modificada\agendaContactosS4\bin\Debug\agendaContactosS4.exe
+E:\Escritorio\agendaContactosS4Modificada\agendaContactosS4\bin\Debug\agendaContactosS4.pdb
+E:\Escritorio\agendaContactosS4Modificada\agendaContactosS4\obj\Debug\agendaContactosS4.csproj.AssemblyReference.cache
+E:\Escritorio\agendaContactosS4Modificada\agendaContactosS4\obj\Debug\agendaContactosS4.Form1.resources
+E:\Escritorio\agendaContactosS4Modificada\agendaContactosS4\obj\Debug\agendaContactosS4.General.resources
+E:\Escritorio\agendaContactosS4Modificada\agendaContactosS4\obj\Debug\agendaContactosS4.Login.resources
+E:\Escritorio\agendaContactosS4Modificada\agendaContactosS4\obj\Debug\agendaContactosS4.Properties.Resources.resources
+E:\Escritorio\agendaContactosS4Modificada\agendaContactosS4\obj\Debug\agendaContactosS4.csproj.GenerateResource.cache
+E:\Escritorio\agendaContactosS4Modificada\agendaContactosS4\obj\Debug\agendaContactosS4.csproj.CoreCompileInputs.cache
+E:\Escritorio\agendaContactosS4Modificada\agendaContactosS4\obj\Debug\agendaContactosS4.exe
+E:\Escritorio\agendaContactosS4Modificada\agendaContactosS4\obj\Debug\agendaContactosS4.pdb
+C:\Users\Berny Valverde\Documents\TI\POO II\agendaScriptContactosS4Sesion5\agendaContactosS4Sesion5\agendaContactosS4\bin\Debug\agendaContactosS4.exe.config
+C:\Users\Berny Valverde\Documents\TI\POO II\agendaScriptContactosS4Sesion5\agendaContactosS4Sesion5\agendaContactosS4\bin\Debug\agendaContactosS4.exe
+C:\Users\Berny Valverde\Documents\TI\POO II\agendaScriptContactosS4Sesion5\agendaContactosS4Sesion5\agendaContactosS4\bin\Debug\agendaContactosS4.pdb
+C:\Users\Berny Valverde\Documents\TI\POO II\agendaScriptContactosS4Sesion5\agendaContactosS4Sesion5\agendaContactosS4\obj\Debug\agendaContactosS4.csproj.AssemblyReference.cache
+C:\Users\Berny Valverde\Documents\TI\POO II\agendaScriptContactosS4Sesion5\agendaContactosS4Sesion5\agendaContactosS4\obj\Debug\agendaContactosS4.Form1.resources
+C:\Users\Berny Valverde\Documents\TI\POO II\agendaScriptContactosS4Sesion5\agendaContactosS4Sesion5\agendaContactosS4\obj\Debug\agendaContactosS4.General.resources
+C:\Users\Berny Valverde\Documents\TI\POO II\agendaScriptContactosS4Sesion5\agendaContactosS4Sesion5\agendaContactosS4\obj\Debug\agendaContactosS4.Login.resources
+C:\Users\Berny Valverde\Documents\TI\POO II\agendaScriptContactosS4Sesion5\agendaContactosS4Sesion5\agendaContactosS4\obj\Debug\agendaContactosS4.Properties.Resources.resources
+C:\Users\Berny Valverde\Documents\TI\POO II\agendaScriptContactosS4Sesion5\agendaContactosS4Sesion5\agendaContactosS4\obj\Debug\agendaContactosS4.csproj.GenerateResource.cache
+C:\Users\Berny Valverde\Documents\TI\POO II\agendaScriptContactosS4Sesion5\agendaContactosS4Sesion5\agendaContactosS4\obj\Debug\agendaContactosS4.csproj.CoreCompileInputs.cache
+C:\Users\Berny Valverde\Documents\TI\POO II\agendaScriptContactosS4Sesion5\agendaContactosS4Sesion5\agendaContactosS4\obj\Debug\agendaContactosS4.exe
+C:\Users\Berny Valverde\Documents\TI\POO II\agendaScriptContactosS4Sesion5\agendaContactosS4Sesion5\agendaContactosS4\obj\Debug\agendaContactosS4.pdb
+C:\Users\Berny Valverde\Documents\TI\POO II\BibliotecaCallejeraRR\agendaContactosS4\bin\Debug\agendaContactosS4.exe.config
+C:\Users\Berny Valverde\Documents\TI\POO II\BibliotecaCallejeraRR\agendaContactosS4\bin\Debug\agendaContactosS4.exe
+C:\Users\Berny Valverde\Documents\TI\POO II\BibliotecaCallejeraRR\agendaContactosS4\bin\Debug\agendaContactosS4.pdb
+C:\Users\Berny Valverde\Documents\TI\POO II\BibliotecaCallejeraRR\agendaContactosS4\obj\Debug\agendaContactosS4.csproj.AssemblyReference.cache
+C:\Users\Berny Valverde\Documents\TI\POO II\BibliotecaCallejeraRR\agendaContactosS4\obj\Debug\agendaContactosS4.Form1.resources
+C:\Users\Berny Valverde\Documents\TI\POO II\BibliotecaCallejeraRR\agendaContactosS4\obj\Debug\agendaContactosS4.General.resources
+C:\Users\Berny Valverde\Documents\TI\POO II\BibliotecaCallejeraRR\agendaContactosS4\obj\Debug\agendaContactosS4.Login.resources
+C:\Users\Berny Valverde\Documents\TI\POO II\BibliotecaCallejeraRR\agendaContactosS4\obj\Debug\agendaContactosS4.Properties.Resources.resources
+C:\Users\Berny Valverde\Documents\TI\POO II\BibliotecaCallejeraRR\agendaContactosS4\obj\Debug\agendaContactosS4.csproj.GenerateResource.cache
+C:\Users\Berny Valverde\Documents\TI\POO II\BibliotecaCallejeraRR\agendaContactosS4\obj\Debug\agendaContactosS4.csproj.CoreCompileInputs.cache
+C:\Users\Berny Valverde\Documents\TI\POO II\BibliotecaCallejeraRR\agendaContactosS4\obj\Debug\agendaContactosS4.exe
+C:\Users\Berny Valverde\Documents\TI\POO II\BibliotecaCallejeraRR\agendaContactosS4\obj\Debug\agendaContactosS4.pdb
+C:\Users\Berny Valverde\Documents\TI\POO II\BibliotecaCallejeraRR\agendaContactosS4\obj\Debug\agendaContactosS4.MenuPrincipal.resources
